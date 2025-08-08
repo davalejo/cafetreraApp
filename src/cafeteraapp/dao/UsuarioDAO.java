@@ -1,6 +1,6 @@
-package CafeteraApp.dao;
+package cafeteraapp.dao;
 
-import CafeteraApp.model.Usuario;
+import cafeteraapp.model.Usuario;
 import CafeteraApp.util.ConexionDB;
 
 import java.sql.*;
